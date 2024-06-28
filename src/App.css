@@ -1,0 +1,55 @@
+.message-container {
+  margin-bottom: 10px;
+  /* width: 140%; */
+}
+
+.user-message {
+  text-align: left;
+}
+
+.assistant-message {
+  text-align: left;
+}
+
+.user-text {
+  background-color: "black";
+}
+
+.assistant-text {
+  background-color: " #blue-200";
+  color: #3c4046;
+}
+
+/* Message Styles */
+.message-container {
+  margin-bottom: 10px;
+}
+
+.user-message {
+  text-align: right;
+}
+
+.assistant-message {
+  text-align: left;
+}
+
+.message-text {
+  display: inline-block;
+  padding: 10px;
+  border-radius: 8px;
+  margin-bottom: 5px;
+  /* max-width: 70%; */
+}
+
+.user-text {
+  background-color: #c2f3d188;
+  color: #000;
+  margin-left: 5%;
+  /* width: 65%; */
+  border: 1px solid white;
+}
+
+.assistant-text {
+  background-color: #ffffff;
+  color: #000;
+}
